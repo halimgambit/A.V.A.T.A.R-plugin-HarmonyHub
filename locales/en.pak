@@ -1,0 +1,13 @@
+{
+  "plugin": {
+    "from": "from"
+  },
+
+  "speech": {
+    "laugh": "$$",
+    "errorApi": "Error while loading the joke",
+    "errorFormat": "Invalid joke format",
+    "errorEmpty": "No joke found.",
+    "errorAccess": "I can't access jokes right now."
+  }
+}
