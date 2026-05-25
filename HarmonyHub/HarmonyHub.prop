@@ -3,7 +3,7 @@
 		"HarmonyHub": {
 			"version": "1.0",
 			"name": "Harmonyhub",
-			"ip": "192.168.1.166",
+			"ip": "192.168.1.1XX",
 			"rules": {
 				"startTV": ["turn on the tv"],
 				"startPS": ["turn on the playstation"],
