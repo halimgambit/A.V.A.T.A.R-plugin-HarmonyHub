@@ -6,9 +6,9 @@ This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.gi
 🎯 Usage
 Commandes :
 
-allume la télé
-éteins la télé
-allume la play station,
+allume la télé, 
+éteins la télé, 
+allume la play station, 
 mets netflix
 
 # Multi-room
