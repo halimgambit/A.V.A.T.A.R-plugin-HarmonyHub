@@ -1,0 +1,11 @@
+{
+  "speech": {
+    "startActivity": "Je lance $$",
+    "noActivity": "Je ne trouve pas cette activité",
+    "errorApi": "Impossible de lancer l'activité",
+    "powerOff": "J'éteins les appareils",
+    "noCurrentActivity": "Aucune activité active.",
+    "yesCurrentActivity": "L'activité active est $$.",
+    "noNameCurrentActivity": "Une activité est en cours, mais je ne trouve pas son nom."
+  }
+}
