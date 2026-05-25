@@ -11,6 +11,8 @@ allume la télé,
 allume la play station, 
 mets netflix
 
+remplacer l'adresse ip du harmony hub dans le fichier config
+
 # Multi-room
 The HarmonyHub plugin is fully multi-room.
 
