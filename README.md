@@ -24,7 +24,7 @@ The HarmonyHub plugin relies solely on the system's available languages.
   <tr>
     <td style="border: none;"><img src="HarmonyHub/assets/images/HarmonyHub.png" alt="HarmonyHub Logo" width="120"></td>
     <td style="border: none;">
-      <h1 style="margin: 0;color: brown;">Blague</h1>
+      <h1 style="margin: 0;color: brown;">HarmonyHub</h1>
       <h3 style="margin: 0;">Harmony Hub Controls</h3>
     </td>
   </tr>
